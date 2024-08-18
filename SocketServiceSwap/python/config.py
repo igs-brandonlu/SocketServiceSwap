@@ -15,17 +15,17 @@ else:
 
 # 要移出的機器
 move_out = [
-    Hostname._004, Hostname._005
+    Hostname._004, Hostname._005, Hostname._006
 ]
 
 # 要移入的機器
 move_in = [
-    Hostname._001, Hostname._002, Hostname._003, Hostname._006
+    Hostname._001, Hostname._002, Hostname._003
 ]
 
 # 要重啟的機器
 restart_socket = [
-    Hostname._004, Hostname._005
+    Hostname._004
 ]
 
 
